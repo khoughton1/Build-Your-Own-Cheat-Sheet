@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: purple;
+}
+
+table {
+  border: 2px solid purple;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+thead {
+text-align: center;
+Font-weight: bold;
+background-color: plum;
+}
+
+td {
+  border-top: 1px solid purple;
+}
+
+mark {
+  background-color: beige;
+}
